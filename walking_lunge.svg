@@ -1,0 +1,28 @@
+
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<rect width="320" height="220" rx="24" fill="#f7f2ee"/>
+<line x1="36" y1="180" x2="284" y2="180" stroke="#d6c7c7" stroke-width="6"/>
+<circle cx="140" cy="58" r="14" fill="#9b4f65">
+  <animate attributeName="cx" values="136;180;136" dur="2.2s" repeatCount="indefinite"/>
+</circle>
+<line x1="140" y1="72" x2="150" y2="116" stroke="#51313a" stroke-width="9" stroke-linecap="round">
+  <animate attributeName="x1" values="136;180;136" dur="2.2s" repeatCount="indefinite"/>
+  <animate attributeName="x2" values="146;190;146" dur="2.2s" repeatCount="indefinite"/>
+</line>
+<line x1="150" y1="116" x2="126" y2="178" stroke="#51313a" stroke-width="9" stroke-linecap="round">
+  <animate attributeName="x1" values="146;190;146" dur="2.2s" repeatCount="indefinite"/>
+  <animate attributeName="x2" values="122;160;122" dur="2.2s" repeatCount="indefinite"/>
+</line>
+<line x1="150" y1="116" x2="176" y2="170" stroke="#51313a" stroke-width="9" stroke-linecap="round">
+  <animate attributeName="x1" values="146;190;146" dur="2.2s" repeatCount="indefinite"/>
+  <animate attributeName="x2" values="180;226;180" dur="2.2s" repeatCount="indefinite"/>
+</line>
+<line x1="150" y1="92" x2="120" y2="112" stroke="#51313a" stroke-width="7" stroke-linecap="round">
+  <animate attributeName="x1" values="146;190;146" dur="2.2s" repeatCount="indefinite"/>
+  <animate attributeName="x2" values="116;160;116" dur="2.2s" repeatCount="indefinite"/>
+</line>
+<line x1="150" y1="92" x2="180" y2="108" stroke="#51313a" stroke-width="7" stroke-linecap="round">
+  <animate attributeName="x1" values="146;190;146" dur="2.2s" repeatCount="indefinite"/>
+  <animate attributeName="x2" values="176;220;176" dur="2.2s" repeatCount="indefinite"/>
+</line>
+</svg>

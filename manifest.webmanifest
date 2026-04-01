@@ -1,0 +1,23 @@
+{
+  "name": "ForgeHer",
+  "short_name": "ForgeHer",
+  "description": "Personalized workout app with inline looping demos.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fcf8f6",
+  "theme_color": "#9b4f65",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
